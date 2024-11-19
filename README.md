@@ -10,16 +10,18 @@
 
 ---
 
+
 ### 📫 **Cómo Contactarme**
 - **Correo**: coralsoyyo@digitechfp.com  
 - **LinkedIn**: [CoralJG](https://www.linkedin.com/in/coral-j-717568235/)
+
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJhbDhxdXNjZjlmY3VncnVxeG4yOTFoNnY2bXUyMnJsdGhheXJxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.webp">
+
 
 ---
 
 ### 🛠 **Sobre Mí**
 Soy una desarrolladora Full Stack Jr orientada al detalle, con experiencia tanto en frontend como en backend. Me apasiona el aprendizaje constante y disfruto de crear soluciones prácticas y eficientes que mejoren procesos. Combino habilidades técnicas con competencias en liderazgo y trabajo en equipo, manteniéndome siempre abierta a nuevos retos profesionales.
-
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJhbDhxdXNjZjlmY3VncnVxeG4yOTFoNnY2bXUyMnJsdGhheXJxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.webp">
 
 ---
 
