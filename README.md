@@ -77,11 +77,15 @@ Soy una desarrolladora Full Stack Jr orientada al detalle, con experiencia tanto
 - **[Calculadora por URL](https://github.com/CoralJG/Calculator_Laravel)**  
   Calculadora basada en Laravel que opera a través de parámetros en la URL.
 
+- **[Trabajos varios](https://github.com/CoralJG/WORKS)**  
+  Aquí salen los trabajos más recientes que he hecho.
+
+- **[Portfolio interesante](https://github.com/CoralJG/Portfolio)**  
+  Aplicación que se basa en HTML, CSS y JavaScript, (aún en proceso)
+
 ---
 
 #### 🤝 **Proyectos Grupales**
-- **[Gestión de Cursos y Tareas](https://github.com/martinmorente-dev/Manage_Curses)**  
-  Aplicación desarrollada en Laravel para la gestión de cursos, tareas y roles, con protección mediante middleware.  
 
 - **[Gestión de Eventos con JavaScript](https://github.com/CoralJG/DISENO_INTERFACES_EVENTOS)**  
   Página de compraventa de videojuegos con almacenamiento local (LocalStorage) y funcionalidades avanzadas de JavaScript.  
