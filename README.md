@@ -26,7 +26,6 @@ Soy una desarrolladora Full Stack Jr orientada al detalle, con experiencia tanto
 ---
 
 ### 📜 **Certificaciones Fundae**
-➡[FUNDAE prácticas](https://github.com/CoralJG/FUNDAE)
 - **Ciberseguridad**
 - **Containers**
 - **Mejora de la Productividad con el Uso de Herramientas Microsoft 365**
