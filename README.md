@@ -52,7 +52,7 @@ Soy una desarrolladora Full Stack Jr orientada al detalle, con experiencia tanto
 ---
 
 ### 🌍 **Idiomas**
-- **Inglés**: B1  
+- **Inglés**: B2  
 - **Francés**: B1  
 
 ---
