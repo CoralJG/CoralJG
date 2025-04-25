@@ -36,7 +36,7 @@ Soy una desarrolladora Full Stack Jr orientada al detalle, con experiencia tanto
 ### 🧑‍💻 **Conocimientos Técnicos**
 
 #### **Frontend**
-- **Frameworks y Librerías**: Vue.js, Angular  
+- **Frameworks y Librerías**: Vue.js  
 - **Lenguajes y Tecnologías**: HTML5, CSS3, JavaScript  
 
 #### **Backend**
@@ -44,7 +44,7 @@ Soy una desarrolladora Full Stack Jr orientada al detalle, con experiencia tanto
 - **Lenguajes de Desarrollo**: PHP, Python, Java  
 
 #### **Lenguajes de Programación Generales**
-- **JavaScript**, **Python**, **Java**, **PHP**, **TypeScript**, **Shell Scripting**  
+- **JavaScript**, **Python**, **Java**, **PHP**, **Shell Scripting**  
 
 #### **DevOps y Contenedorización**
 - **Docker**: Despliegue y gestión de aplicaciones en contenedores  
